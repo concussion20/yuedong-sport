@@ -1,0 +1,2460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><cname>国际贸易</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>2</cid><cname>大学英语</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>3</cid><cname>计算机基础</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>4</cid><cname>宏经</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>5</cid><cname>证券投资</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>6</cid><cname>法学通论</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>7</cid><cname>高等数学</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>8</cid><cname>人力资源</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>9</cid><cname>电子商务</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>10</cid><cname>跨国公司经营</cname><courseInstitution>3
+                </courseInstitution></course><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>1</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>计算方法</cname>
+    </course>
+    <course>
+        <cid>2</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微波测量实验</cname>
+    </course>
+    <course>
+        <cid>3</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>操作系统</cname>
+    </course>
+    <course>
+        <cid>4</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>矩阵计算与应用</cname>
+    </course>
+    <course>
+        <cid>5</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>IT企业创业与发展战略</cname>
+    </course>
+    <course>
+        <cid>6</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数据通信</cname>
+    </course>
+    <course>
+        <cid>7</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微电子工艺</cname>
+    </course>
+    <course>
+        <cid>8</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数字集成电路设计</cname>
+    </course>
+    <course>
+        <cid>9</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>电子系统实践</cname>
+    </course>
+    <course>
+        <cid>10</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>碳基电子学</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+    <course>
+        <cid>30002</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分1</cname>
+    </course>
+    <course>
+        <cid>30003</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分2</cname>
+    </course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30005</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>概率论</cname>
+    </course>
+    <course>
+        <cid>30006</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>解析几何</cname>
+    </course>
+    <course>
+        <cid>30007</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数论</cname>
+    </course>
+    <course>
+        <cid>30008</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>信号与系统</cname>
+    </course>
+    <course>
+        <cid>30009</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数学史</cname>
+    </course>
+    <course>
+        <cid>30010</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学物理</cname>
+    </course>
+</courses>
+</courses>
+
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><cname>国际贸易</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>2</cid><cname>大学英语</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>3</cid><cname>计算机基础</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>4</cid><cname>宏经</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>5</cid><cname>证券投资</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>6</cid><cname>法学通论</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>7</cid><cname>高等数学</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>8</cid><cname>人力资源</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>9</cid><cname>电子商务</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>10</cid><cname>跨国公司经营</cname><courseInstitution>3
+                </courseInstitution></course>
+    <course>
+        <cid>1</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>计算方法</cname>
+    </course>
+    <course>
+        <cid>2</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微波测量实验</cname>
+    </course>
+    <course>
+        <cid>3</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>操作系统</cname>
+    </course>
+    <course>
+        <cid>4</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>矩阵计算与应用</cname>
+    </course>
+    <course>
+        <cid>5</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>IT企业创业与发展战略</cname>
+    </course>
+    <course>
+        <cid>6</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数据通信</cname>
+    </course>
+    <course>
+        <cid>7</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微电子工艺</cname>
+    </course>
+    <course>
+        <cid>8</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数字集成电路设计</cname>
+    </course>
+    <course>
+        <cid>9</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>电子系统实践</cname>
+    </course>
+    <course>
+        <cid>10</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>碳基电子学</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+    <course>
+        <cid>30002</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分1</cname>
+    </course>
+    <course>
+        <cid>30003</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分2</cname>
+    </course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30005</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>概率论</cname>
+    </course>
+    <course>
+        <cid>30006</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>解析几何</cname>
+    </course>
+    <course>
+        <cid>30007</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数论</cname>
+    </course>
+    <course>
+        <cid>30008</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>信号与系统</cname>
+    </course>
+    <course>
+        <cid>30009</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数学史</cname>
+    </course>
+    <course>
+        <cid>30010</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学物理</cname>
+    </course>
+</courses>
+
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listBean>
+    <courseInfo>
+        <courseid>1</courseid>
+        <institution>2</institution>
+        <name>计算方法</name>
+        <studentNum>42</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>2</courseid>
+        <institution>2</institution>
+        <name>微波测量实验</name>
+        <studentNum>44</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>3</courseid>
+        <institution>2</institution>
+        <name>操作系统</name>
+        <studentNum>50</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>4</courseid>
+        <institution>2</institution>
+        <name>矩阵计算与应用</name>
+        <studentNum>47</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>5</courseid>
+        <institution>2</institution>
+        <name>IT企业创业与发展战略</name>
+        <studentNum>48</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>6</courseid>
+        <institution>2</institution>
+        <name>数据通信</name>
+        <studentNum>60</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>7</courseid>
+        <institution>2</institution>
+        <name>微电子工艺</name>
+        <studentNum>52</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>8</courseid>
+        <institution>2</institution>
+        <name>数字集成电路设计</name>
+        <studentNum>56</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>9</courseid>
+        <institution>2</institution>
+        <name>电子系统实践</name>
+        <studentNum>47</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>10</courseid>
+        <institution>2</institution>
+        <name>碳基电子学</name>
+        <studentNum>54</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30001</courseid>
+        <institution>1</institution>
+        <name>大学英语</name>
+        <studentNum>28</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30002</courseid>
+        <institution>1</institution>
+        <name>微积分1</name>
+        <studentNum>22</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30003</courseid>
+        <institution>1</institution>
+        <name>微积分2</name>
+        <studentNum>17</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30004</courseid>
+        <institution>1</institution>
+        <name>线性代数</name>
+        <studentNum>23</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30005</courseid>
+        <institution>1</institution>
+        <name>概率论</name>
+        <studentNum>20</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30006</courseid>
+        <institution>1</institution>
+        <name>解析几何</name>
+        <studentNum>38</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30007</courseid>
+        <institution>1</institution>
+        <name>数论</name>
+        <studentNum>24</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30008</courseid>
+        <institution>1</institution>
+        <name>信号与系统</name>
+        <studentNum>25</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30009</courseid>
+        <institution>1</institution>
+        <name>数学史</name>
+        <studentNum>27</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30010</courseid>
+        <institution>1</institution>
+        <name>大学物理</name>
+        <studentNum>23</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>1</courseid>
+        <institution>3</institution>
+        <name>国际贸易</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>2</courseid>
+        <institution>3</institution>
+        <name>大学英语</name>
+        <studentNum>3</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>3</courseid>
+        <institution>3</institution>
+        <name>计算机基础</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>4</courseid>
+        <institution>3</institution>
+        <name>宏经</name>
+        <studentNum>4</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>5</courseid>
+        <institution>3</institution>
+        <name>证券投资</name>
+        <studentNum>1</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>6</courseid>
+        <institution>3</institution>
+        <name>法学通论</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>7</courseid>
+        <institution>3</institution>
+        <name>高等数学</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>8</courseid>
+        <institution>3</institution>
+        <name>人力资源</name>
+        <studentNum>3</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>9</courseid>
+        <institution>3</institution>
+        <name>电子商务</name>
+        <studentNum>1</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>10</courseid>
+        <institution>3</institution>
+        <name>跨国公司经营</name>
+        <studentNum>1</studentNum>
+    </courseInfo>
+</listBean>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listBean>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈伟霜</name>
+        <studentid>141110001</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱婷敏</name>
+        <studentid>141110002</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱君敏</name>
+        <studentid>141110003</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李超敏</name>
+        <studentid>141110004</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱军勇</name>
+        <studentid>141110005</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙君纯</name>
+        <studentid>141110006</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱霜勇</name>
+        <studentid>141110007</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王军敏</name>
+        <studentid>141110008</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林君超</name>
+        <studentid>141110009</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林纯婷</name>
+        <studentid>141110010</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴婷敏</name>
+        <studentid>141110011</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈超勇</name>
+        <studentid>141110012</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵勇婷</name>
+        <studentid>141110013</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵纯霜</name>
+        <studentid>141110014</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴超婷</name>
+        <studentid>141110015</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王军伟</name>
+        <studentid>141110016</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴君霜</name>
+        <studentid>141110017</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李军俊</name>
+        <studentid>141110018</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱伟军</name>
+        <studentid>141110019</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李敏霜</name>
+        <studentid>141110020</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林勇君</name>
+        <studentid>141110021</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱婷纯</name>
+        <studentid>141110022</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴勇军</name>
+        <studentid>141110023</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈敏敏</name>
+        <studentid>141110024</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵超勇</name>
+        <studentid>141110025</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李俊君</name>
+        <studentid>141110026</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林勇勇</name>
+        <studentid>141110027</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙敏俊</name>
+        <studentid>141110028</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵超纯</name>
+        <studentid>141110029</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈敏君</name>
+        <studentid>141110030</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈纯超</name>
+        <studentid>141110031</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵超军</name>
+        <studentid>141110032</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈军超</name>
+        <studentid>141110033</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱勇霜</name>
+        <studentid>141110034</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴超婷</name>
+        <studentid>141110035</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李超霜</name>
+        <studentid>141110036</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林伟敏</name>
+        <studentid>141110037</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴勇君</name>
+        <studentid>141110038</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李伟婷</name>
+        <studentid>141110039</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈婷俊</name>
+        <studentid>141110040</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵伟婷</name>
+        <studentid>141110041</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王婷军</name>
+        <studentid>141110042</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴伟敏</name>
+        <studentid>141110043</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈伟纯</name>
+        <studentid>141110044</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵超婷</name>
+        <studentid>141110045</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林敏军</name>
+        <studentid>141110046</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴君超</name>
+        <studentid>141110047</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李君勇</name>
+        <studentid>141110048</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王勇伟</name>
+        <studentid>141110049</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵俊霜</name>
+        <studentid>141110050</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱勇婷</name>
+        <studentid>141110051</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李伟婷</name>
+        <studentid>141110052</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林纯军</name>
+        <studentid>141110053</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王君勇</name>
+        <studentid>141110054</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林婷军</name>
+        <studentid>141110055</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李伟俊</name>
+        <studentid>141110056</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王勇俊</name>
+        <studentid>141110057</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵俊纯</name>
+        <studentid>141110058</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴婷婷</name>
+        <studentid>141110059</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王伟伟</name>
+        <studentid>141110060</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李婷俊</name>
+        <studentid>141110061</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴霜超</name>
+        <studentid>141110062</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈纯纯</name>
+        <studentid>141110063</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王伟勇</name>
+        <studentid>141110064</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈俊纯</name>
+        <studentid>141110065</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林霜超</name>
+        <studentid>141110066</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王超婷</name>
+        <studentid>141110067</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王俊超</name>
+        <studentid>141110068</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴霜勇</name>
+        <studentid>141110069</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林婷纯</name>
+        <studentid>141110070</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王勇敏</name>
+        <studentid>141110071</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈纯超</name>
+        <studentid>141110072</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱婷超</name>
+        <studentid>141110073</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈敏敏</name>
+        <studentid>141110074</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林伟霜</name>
+        <studentid>141110075</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙婷伟</name>
+        <studentid>141110076</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈君纯</name>
+        <studentid>141110077</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱纯敏</name>
+        <studentid>141110078</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙纯伟</name>
+        <studentid>141110079</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李勇霜</name>
+        <studentid>141110080</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>王俊敏</name>
+        <studentid>141110081</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵勇勇</name>
+        <studentid>141110082</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵敏霜</name>
+        <studentid>141110083</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李超敏</name>
+        <studentid>141110084</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱婷俊</name>
+        <studentid>141110085</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴君伟</name>
+        <studentid>141110086</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈勇霜</name>
+        <studentid>141110087</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴军婷</name>
+        <studentid>141110088</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴勇军</name>
+        <studentid>141110089</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>林军君</name>
+        <studentid>141110090</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>陈霜军</name>
+        <studentid>141110091</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙霜勇</name>
+        <studentid>141110092</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙军伟</name>
+        <studentid>141110093</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱俊勇</name>
+        <studentid>141110094</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙超超</name>
+        <studentid>141110095</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>吴超伟</name>
+        <studentid>141110096</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>孙军勇</name>
+        <studentid>141110097</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>赵婷勇</name>
+        <studentid>141110098</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>钱伟勇</name>
+        <studentid>141110099</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>2</institution>
+        <name>李敏霜</name>
+        <studentid>141110100</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>test</name>
+        <studentid>10001</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student2</name>
+        <studentid>10002</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student3</name>
+        <studentid>10003</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student4</name>
+        <studentid>10004</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student5</name>
+        <studentid>10005</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student6</name>
+        <studentid>10006</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student7</name>
+        <studentid>10007</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student8</name>
+        <studentid>10008</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student9</name>
+        <studentid>10009</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student10</name>
+        <studentid>10010</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student11</name>
+        <studentid>10011</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student12</name>
+        <studentid>10012</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student13</name>
+        <studentid>10013</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student14</name>
+        <studentid>10014</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student15</name>
+        <studentid>10015</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student16</name>
+        <studentid>10016</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student17</name>
+        <studentid>10017</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student18</name>
+        <studentid>10018</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student19</name>
+        <studentid>10019</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student20</name>
+        <studentid>10020</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student21</name>
+        <studentid>10021</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student22</name>
+        <studentid>10022</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student23</name>
+        <studentid>10023</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student24</name>
+        <studentid>10024</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student25</name>
+        <studentid>10025</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student26</name>
+        <studentid>10026</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student27</name>
+        <studentid>10027</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student28</name>
+        <studentid>10028</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student29</name>
+        <studentid>10029</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student30</name>
+        <studentid>10030</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student31</name>
+        <studentid>10031</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student32</name>
+        <studentid>10032</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student33</name>
+        <studentid>10033</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student34</name>
+        <studentid>10034</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student35</name>
+        <studentid>10035</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student36</name>
+        <studentid>10036</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student37</name>
+        <studentid>10037</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student38</name>
+        <studentid>10038</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student39</name>
+        <studentid>10039</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student40</name>
+        <studentid>10040</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student41</name>
+        <studentid>10041</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student42</name>
+        <studentid>10042</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student43</name>
+        <studentid>10043</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student44</name>
+        <studentid>10044</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student45</name>
+        <studentid>10045</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student46</name>
+        <studentid>10046</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>2</courseNum>
+        <institution>1</institution>
+        <name>student47</name>
+        <studentid>10047</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student48</name>
+        <studentid>10048</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student49</name>
+        <studentid>10049</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>5</courseNum>
+        <institution>1</institution>
+        <name>student50</name>
+        <studentid>10050</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>1</institution>
+        <name>student51</name>
+        <studentid>10051</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>3</courseNum>
+        <institution>3</institution>
+        <name>aa</name>
+        <studentid>1</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>6</courseNum>
+        <institution>3</institution>
+        <name>bb</name>
+        <studentid>2</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>3</courseNum>
+        <institution>3</institution>
+        <name>cc</name>
+        <studentid>3</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>3</courseNum>
+        <institution>3</institution>
+        <name>dd</name>
+        <studentid>4</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>2</courseNum>
+        <institution>3</institution>
+        <name>ee</name>
+        <studentid>5</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>1</courseNum>
+        <institution>3</institution>
+        <name>ff</name>
+        <studentid>6</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>gg</name>
+        <studentid>7</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>hh</name>
+        <studentid>8</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>1</courseNum>
+        <institution>3</institution>
+        <name>ii</name>
+        <studentid>9</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>2</courseNum>
+        <institution>3</institution>
+        <name>jj</name>
+        <studentid>10</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>kk</name>
+        <studentid>11</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ll</name>
+        <studentid>12</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>mm</name>
+        <studentid>13</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>nn</name>
+        <studentid>14</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>oo</name>
+        <studentid>15</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>pp</name>
+        <studentid>16</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>qq</name>
+        <studentid>17</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>rr</name>
+        <studentid>18</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ss</name>
+        <studentid>19</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>tt</name>
+        <studentid>20</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>uu</name>
+        <studentid>21</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>vv</name>
+        <studentid>22</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ww</name>
+        <studentid>23</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>xx</name>
+        <studentid>24</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>yy</name>
+        <studentid>25</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>zz</name>
+        <studentid>26</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>aa</name>
+        <studentid>27</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>bb</name>
+        <studentid>28</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>cc</name>
+        <studentid>29</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>dd</name>
+        <studentid>30</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ee</name>
+        <studentid>31</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ff</name>
+        <studentid>32</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>gg</name>
+        <studentid>33</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>hh</name>
+        <studentid>34</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ii</name>
+        <studentid>35</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>jj</name>
+        <studentid>36</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>kk</name>
+        <studentid>37</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ll</name>
+        <studentid>38</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>mm</name>
+        <studentid>39</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>nn</name>
+        <studentid>40</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>oo</name>
+        <studentid>41</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>pp</name>
+        <studentid>42</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>qq</name>
+        <studentid>43</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>rr</name>
+        <studentid>44</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ss</name>
+        <studentid>45</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>tt</name>
+        <studentid>46</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>uu</name>
+        <studentid>47</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>vv</name>
+        <studentid>48</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>ww</name>
+        <studentid>49</studentid>
+    </studentInfo>
+    <studentInfo>
+        <courseNum>0</courseNum>
+        <institution>3</institution>
+        <name>xx</name>
+        <studentid>50</studentid>
+    </studentInfo>
+</listBean>
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><course_select><id>6</id><sid>3</sid><cid>4</cid><cname>宏经</cname><courseInstitution>3</courseInstitution><course_select><id>36</id><sid>3</sid><cid>2</cid><cname>大学英语</cname><courseInstitution>3</courseInstitution><course_select><id>43</id><sid>3</sid><cid>10</cid><cname>跨国公司经营</cname><courseInstitution>3</c.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><course_select><id>6</id><sid>3</sid><cid>4</cid><cname>宏经</cname><courseInstitution>3</courseInstitution><course_select><id>36</id><sid>3</sid><cid>2</cid><cname>大学英语</cname><courseInstitution>3</courseInstitution><course_select><id>43</id><sid>3</sid><cid>10</cid><cname>跨国公司经营</cname><courseInstitution>3</c.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <message>选课成功</message>
+    <success>true</success>
+</result>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿﻿#0 C:\appIntegration\RequestRemote.php(207): SoapClient->__call('dropCourses', Array)
+#1 C:\appIntegration\DAO.php(138): RequestRemote->drop('3', '30005', '1')
+#2 [internal function]: DAO->drop(Array)
+#3 C:\appIntegration\Controller.php(16): ReflectionMethod->invokeArgs(Object(DAO), Array)
+#4 {main}
+
+
+﻿﻿#0 C:\appIntegration\RequestRemote.php(188): SoapClient->__call('chooseCourses', Array)
+#1 C:\appIntegration\DAO.php(107): RequestRemote->select('3', '30005', '1')
+#2 [internal function]: DAO->select(Array)
+#3 C:\appIntegration\Controller.php(16): ReflectionMethod->invokeArgs(Object(DAO), Array)
+#4 {main}
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><cname>国际贸易</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>2</cid><cname>大学英语</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>3</cid><cname>计算机基础</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>4</cid><cname>宏经</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>5</cid><cname>证券投资</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>6</cid><cname>法学通论</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>7</cid><cname>高等数学</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>8</cid><cname>人力资源</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>9</cid><cname>电子商务</cname><courseInstitution>3
+                </courseInstitution></course><course><cid>10</cid><cname>跨国公司经营</cname><courseInstitution>3
+                </courseInstitution></course>
+    <course>
+        <cid>1</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>计算方法</cname>
+    </course>
+    <course>
+        <cid>2</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微波测量实验</cname>
+    </course>
+    <course>
+        <cid>3</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>操作系统</cname>
+    </course>
+    <course>
+        <cid>4</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>矩阵计算与应用</cname>
+    </course>
+    <course>
+        <cid>5</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>IT企业创业与发展战略</cname>
+    </course>
+    <course>
+        <cid>6</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数据通信</cname>
+    </course>
+    <course>
+        <cid>7</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微电子工艺</cname>
+    </course>
+    <course>
+        <cid>8</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数字集成电路设计</cname>
+    </course>
+    <course>
+        <cid>9</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>电子系统实践</cname>
+    </course>
+    <course>
+        <cid>10</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>碳基电子学</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+    <course>
+        <cid>30002</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分1</cname>
+    </course>
+    <course>
+        <cid>30003</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分2</cname>
+    </course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30005</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>概率论</cname>
+    </course>
+    <course>
+        <cid>30006</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>解析几何</cname>
+    </course>
+    <course>
+        <cid>30007</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数论</cname>
+    </course>
+    <course>
+        <cid>30008</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>信号与系统</cname>
+    </course>
+    <course>
+        <cid>30009</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数学史</cname>
+    </course>
+    <course>
+        <cid>30010</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学物理</cname>
+    </course>
+</courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3
+            </courseInstitution><cname>国际贸易</cname></course><course><cid>2</cid><courseInstitution>3
+            </courseInstitution><cname>大学英语</cname></course><course><cid>3</cid><courseInstitution>3
+            </courseInstitution><cname>计算机基础</cname></course><course><cid>4</cid><courseInstitution>3
+            </courseInstitution><cname>宏经</cname></course><course><cid>5</cid><courseInstitution>3
+            </courseInstitution><cname>证券投资</cname></course><course><cid>6</cid><courseInstitution>3
+            </courseInstitution><cname>法学通论</cname></course><course><cid>7</cid><courseInstitution>3
+            </courseInstitution><cname>高等数学</cname></course><course><cid>8</cid><courseInstitution>3
+            </courseInstitution><cname>人力资源</cname></course><course><cid>9</cid><courseInstitution>3
+            </courseInstitution><cname>电子商务</cname></course><course><cid>10</cid><courseInstitution>3
+            </courseInstitution><cname>跨国公司经营</cname></course>
+    <course>
+        <cid>1</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>计算方法</cname>
+    </course>
+    <course>
+        <cid>2</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微波测量实验</cname>
+    </course>
+    <course>
+        <cid>3</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>操作系统</cname>
+    </course>
+    <course>
+        <cid>4</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>矩阵计算与应用</cname>
+    </course>
+    <course>
+        <cid>5</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>IT企业创业与发展战略</cname>
+    </course>
+    <course>
+        <cid>6</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数据通信</cname>
+    </course>
+    <course>
+        <cid>7</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>微电子工艺</cname>
+    </course>
+    <course>
+        <cid>8</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>数字集成电路设计</cname>
+    </course>
+    <course>
+        <cid>9</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>电子系统实践</cname>
+    </course>
+    <course>
+        <cid>10</cid>
+        <courseInstitution>2</courseInstitution>
+        <cname>碳基电子学</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+    <course>
+        <cid>30002</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分1</cname>
+    </course>
+    <course>
+        <cid>30003</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分2</cname>
+    </course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30005</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>概率论</cname>
+    </course>
+    <course>
+        <cid>30006</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>解析几何</cname>
+    </course>
+    <course>
+        <cid>30007</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数论</cname>
+    </course>
+    <course>
+        <cid>30008</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>信号与系统</cname>
+    </course>
+    <course>
+        <cid>30009</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>数学史</cname>
+    </course>
+    <course>
+        <cid>30010</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学物理</cname>
+    </course>
+</courses>
+
+
+﻿﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <message>选课成功</message>
+    <success>true</success>
+</result>
+
+
+﻿﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <message>选课成功</message>
+    <success>true</success>
+</result>
+
+﻿﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <message>选课成功</message>
+    <success>true</success>
+</result>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listBean>
+    <courseInfo>
+        <courseid>1</courseid>
+        <institution>2</institution>
+        <name>计算方法</name>
+        <studentNum>42</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>2</courseid>
+        <institution>2</institution>
+        <name>微波测量实验</name>
+        <studentNum>44</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>3</courseid>
+        <institution>2</institution>
+        <name>操作系统</name>
+        <studentNum>50</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>4</courseid>
+        <institution>2</institution>
+        <name>矩阵计算与应用</name>
+        <studentNum>47</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>5</courseid>
+        <institution>2</institution>
+        <name>IT企业创业与发展战略</name>
+        <studentNum>48</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>6</courseid>
+        <institution>2</institution>
+        <name>数据通信</name>
+        <studentNum>60</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>7</courseid>
+        <institution>2</institution>
+        <name>微电子工艺</name>
+        <studentNum>52</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>8</courseid>
+        <institution>2</institution>
+        <name>数字集成电路设计</name>
+        <studentNum>56</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>9</courseid>
+        <institution>2</institution>
+        <name>电子系统实践</name>
+        <studentNum>47</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>10</courseid>
+        <institution>2</institution>
+        <name>碳基电子学</name>
+        <studentNum>54</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30001</courseid>
+        <institution>1</institution>
+        <name>大学英语</name>
+        <studentNum>28</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30002</courseid>
+        <institution>1</institution>
+        <name>微积分1</name>
+        <studentNum>22</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30003</courseid>
+        <institution>1</institution>
+        <name>微积分2</name>
+        <studentNum>17</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30004</courseid>
+        <institution>1</institution>
+        <name>线性代数</name>
+        <studentNum>23</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30005</courseid>
+        <institution>1</institution>
+        <name>概率论</name>
+        <studentNum>20</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30006</courseid>
+        <institution>1</institution>
+        <name>解析几何</name>
+        <studentNum>38</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30007</courseid>
+        <institution>1</institution>
+        <name>数论</name>
+        <studentNum>24</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30008</courseid>
+        <institution>1</institution>
+        <name>信号与系统</name>
+        <studentNum>25</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30009</courseid>
+        <institution>1</institution>
+        <name>数学史</name>
+        <studentNum>27</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>30010</courseid>
+        <institution>1</institution>
+        <name>大学物理</name>
+        <studentNum>23</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>1</courseid>
+        <institution>3</institution>
+        <name>国际贸易</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>2</courseid>
+        <institution>3</institution>
+        <name>大学英语</name>
+        <studentNum>3</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>3</courseid>
+        <institution>3</institution>
+        <name>计算机基础</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>4</courseid>
+        <institution>3</institution>
+        <name>宏经</name>
+        <studentNum>4</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>5</courseid>
+        <institution>3</institution>
+        <name>证券投资</name>
+        <studentNum>1</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>6</courseid>
+        <institution>3</institution>
+        <name>法学通论</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>7</courseid>
+        <institution>3</institution>
+        <name>高等数学</name>
+        <studentNum>2</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>8</courseid>
+        <institution>3</institution>
+        <name>人力资源</name>
+        <studentNum>3</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>9</courseid>
+        <institution>3</institution>
+        <name>电子商务</name>
+        <studentNum>1</studentNum>
+    </courseInfo>
+    <courseInfo>
+        <courseid>10</courseid>
+        <institution>3</institution>
+        <name>跨国公司经营</name>
+        <studentNum>1</studentNum>
+    </courseInfo>
+</listBean>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <message>选课成功</message>
+    <success>true</success>
+</result>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+    <course>
+        <cid>30003</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>微积分2</cname>
+    </course>
+</courses>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <message>选课成功</message>
+    <success>true</success>
+</result>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+<?xml version="1.0" encoding="sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+</course_selects>
+
+
+<?xml version="1.0" encoding="sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+</course_selects>
+
+
+﻿3<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+</course_selects>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses>sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses>sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>11</cid><courseInstitution>3</courseInstitution><cname>人力资源</cname></course><course><cid>15</cid><courseInstitution>3</courseInstitution><cname>人力资源</cname></course>sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses>
+<course><cid>11</cid><courseInstitution>3</courseInstitution><cname>人力资源</cname></course>
+<course><cid>15</cid><courseInstitution>3</courseInstitution><cname>人力资源</cname></course>
+sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>11</cid><courseInstitution>3</courseInstitution><cname>人力资源</cname></course><course><cid>15</cid><courseInstitution>3</courseInstitution><cname>人力资源</cname></course>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses></courses>
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>3</cid><courseInstitution>3</courseInstitution><cname>计算机基础</cname></course></courses>
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>13</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course></courses>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses></courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>6</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>36</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>43</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>3</cid><courseInstitution>3</courseInstitution><cname>计算机基础</cname></course></courses>
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>3</cid><courseInstitution>3</courseInstitution><cname>计算机基础</cname></course></courses>
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+if<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course></courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses>sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses>sion="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<courses/>
+if
+
+if67
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses></courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>4</cid><courseInstitution>3</courseInstitution><cname>宏经</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>10</cid><courseInstitution>3</courseInstitution><cname>跨国公司经营</cname></course>
+    <course>
+        <cid>30004</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>线性代数</cname>
+    </course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses></courses>
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>3</cid><courseInstitution>3</courseInstitution><cname>计算机基础</cname></course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+
+<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course><course><cid>2</cid><courseInstitution>3</courseInstitution><cname>大学英语</cname></course><course><cid>3</cid><courseInstitution>3</courseInstitution><cname>计算机基础</cname></course>
+    <course>
+        <cid>30001</cid>
+        <courseInstitution>1</courseInstitution>
+        <cname>大学英语</cname>
+    </course>
+</courses>
+
+
+﻿<?xml version="1.0" encoding="UTF-8"?><courses><course><cid>1</cid><courseInstitution>3</courseInstitution><cname>国际贸易</cname></course></courses>
+

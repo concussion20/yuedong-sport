@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="AMERICAN_AMERICA.AL32UTF8">
+    <title>Title</title>
+</head>
+<body>
+<script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+
+    function test()
+    {
+        $.ajax({
+            type: "post", //注意是post还是get
+            url: "http://118.89.192.189/Controller.php",//不要改
+            data: {
+            	action:"DAO/drop",
+            	sid: 1,
+            	cid: 1,
+            	courseInstitution: 3
+                },//给服务器端的参数
+            success: function(msg)
+            {
+                // alert('suc')
+                // alert(msg)
+                // document.write(msg)
+                document.getElementById("ta").value = msg; 
+            },
+            error: function(xhr) {
+                alert(xhr.status+'\n'+xhr.resposneText)
+            }
+        });
+
+    }
+
+
+</script>
+<textarea id="ta">
+
+</textarea>
+
+<button type="button" onclick="test()">点我！</button>
+
+</body>
+</html>
